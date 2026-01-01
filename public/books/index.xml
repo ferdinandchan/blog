@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books on Ferd&#39;s Blog</title>
+    <link>http://localhost:1313/books/</link>
+    <description>Recent content in Books on Ferd&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2025, Ferdinand Chan.</copyright>
+    <lastBuildDate>Wed, 31 Dec 2025 12:10:33 +1100</lastBuildDate>
+    <atom:link href="http://localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Pilgrims Progress</title>
+      <link>http://localhost:1313/books/pilgrims_progress/</link>
+      <pubDate>Wed, 31 Dec 2025 12:10:33 +1100</pubDate>
+      <guid>http://localhost:1313/books/pilgrims_progress/</guid>
+      <description>&lt;h2 id=&#34;what-is-this-book-about&#34;&gt;What is this book about?&lt;/h2&gt;&#xA;&lt;p&gt;The Pilgrim&amp;rsquo;s Progress is Bunyan&amp;rsquo;s attempt to illustrate the fellowship, sufferings and challenges that followers of Jesus will go through. Not only he managed to faithfully portraits the Christian journay based on the teachings from the Bible but also makes it accessible to people who are not familiar with the Bible. He takes the readers through different stages of Christian&amp;rsquo;s life such as rependance and reborn, evangelism and rejections, sufferings and preservance, missteps and corrections, etc, and prompts the readers to reflect on their walk with Jesus and fellowship with other brothers and sisters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Made in our image</title>
+      <link>http://localhost:1313/books/made_in_our_image/</link>
+      <pubDate>Mon, 15 Sep 2025 19:50:57 +1000</pubDate>
+      <guid>http://localhost:1313/books/made_in_our_image/</guid>
+      <description>&lt;h2 id=&#34;what-is-this-book-about&#34;&gt;What is this book about?&lt;/h2&gt;&#xA;&lt;p&gt;The book starts with an overview of artificial intelligence (AI) development until 2024. It helps readers understand how AI is shaking up different aspects of our lives and its benefits and associated risks. The significant advancement of AI&amp;rsquo;s capability and intelligence confronts us with the question of identity - Is human intelligence the key differentiator that makes us different and superior to other creatures? If not, what makes humans &amp;ldquo;human&amp;rdquo;?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

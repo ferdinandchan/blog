@@ -1,0 +1,26 @@
+<table style="padding-top: 5px;">
+  <tbody>
+    <tr>
+      <td rowspan="5">
+      {{ with .Params.book_cover}}
+        {{ with resources.Get . }}
+          <img src="{{ .RelPermalink }}" alt="book_cover">
+        {{ end }}
+      {{ end }}
+      </td>
+      <td><h2>{{ .Param "title" }}</h2></td>
+    </tr>
+    <tr>
+      <td>Author: {{ .Param "author" }}</td>
+    </tr>
+    <tr>
+      <td>ISBN: {{ .Param "isbn" }}</td>
+    </tr>
+    <tr>
+      <td>Date read:{{ .Param "date_read" }}</td>
+    </tr>
+    <tr>
+      <td>Book points: {{ .Param "book_points" }}</td>
+    </tr>
+  </tbody>
+</table>
