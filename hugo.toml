@@ -3,7 +3,8 @@
 baseURL = "https://www.ferdinandchan.com"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+#theme = 'hugo-bearblog'
+theme = 'bearblog-ferd-forked'
 
 # Basic metadata configuration for your blog.
 title = "Ferd's Blog"

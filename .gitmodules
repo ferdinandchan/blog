@@ -1,3 +1,6 @@
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/bearblog-ferd-forked"]
+	path = themes/bearblog-ferd-forked
+	url = https://github.com/ferdinandchan/hugo-bearblog.git
